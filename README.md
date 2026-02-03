@@ -59,5 +59,4 @@
 ---
 
 ## 📊 GitHub Stats
-
 ![Статистика](https://github-readme-stats.vercel.app/api?username=serkovalexey087-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
