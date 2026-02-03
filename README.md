@@ -50,11 +50,10 @@
 
 ## 📬 Контакты
 
-📧 `serkov.alexey@gmail.com`  
-📱 Telegram: [@serkov_alexey](https://t.me/serkov_alexey)
+По вопросам сотрудничества — через официальные каналы университета.
 
 ---
 
 ## 📊 Статистика
 
-[![Статистика](https://github-readme-stats.vercel.app/api?username=serkovalexey087-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/serkovalexey087-hub)
+*Статистика станет доступна после накопления активности в профиле*
