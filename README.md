@@ -53,6 +53,7 @@
 ## 📬 Контакты
 
 📧 `seal0252@yandex.ru`
+https://t.me/Cerca0509
 
 ---
 
